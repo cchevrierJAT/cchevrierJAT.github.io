@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Exercise de groupe
+title: Exercises
 nav_order: 2
+has_children: true
+has_toc: true
 ---
 
 # Getting Started
