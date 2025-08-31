@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Exercice de groupe : Jonah travaille et paye un loyer
 
-<img src="my-folder/T4.bakery.png" alt="T4 pour Jonah de Casey's Bakery" style="float:right;width:360px;margin-left:10px;">
+<img src="my_folder/T4.bakery.png" alt="T4 pour Jonah de Casey's Bakery" style="float:right;width:360px;margin-left:10px;">
 
 Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
 
