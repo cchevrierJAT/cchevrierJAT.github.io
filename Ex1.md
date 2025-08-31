@@ -105,8 +105,7 @@ If you and your group have any questions, or get stuck as you work through this 
 
 <script>  
 
-    function toggle(input) {
-        var x = document.getElementById(input);
+[NEXT STEP: RStudio Integration](Ex.1.html){: .btn .btn-blue }
         if (x.style.display === "none") {
             x.style.display = "block";
         } else {
