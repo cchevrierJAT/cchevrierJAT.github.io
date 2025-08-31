@@ -8,18 +8,16 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Exercice de groupe : Jonah travaille et paye un loyer
 
-<img src="images/act-1/4.png" alt="new repository" style="float:right;width:360px;margin-left:10px;">
+<img src="my-folder/T4.bakery.png" alt="T4 pour Jonah de Casey's Bakery" style="float:right;width:360px;margin-left:10px;">
 
-If you and your group have any questions, or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-
-1.  Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
+Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
 
     <img src="images/act-1/3.png" alt="create repository" style="float:right;width:360px;margin-left:10px;">
 
-2.  [Install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
-3.  [Install the Atom text editor](https://atom.io/){:target="_blank"} on your laptop.
+1.  [Install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
+2.  [Install the Atom text editor](https://atom.io/){:target="_blank"} on your laptop.
 
-4.  Create a new local repository in GitHub Desktop:
+3.  Create a new local repository in GitHub Desktop:
     -   Start by selecting the **File** menu then, **New Repository...**
     -   Finish creating the new repository by filling in the Name, checking the Initialize with README.
     -   Click on **Create Repository**.
@@ -30,7 +28,7 @@ If you and your group have any questions, or get stuck as you work through this 
      </div>
      <img src="images/act-1/5.png" alt="open in atom" style="float:right;width:240px;margin-left:10px;">
   
-5.  Add files, commit changes in GitHub Desktop:
+4.  Add files, commit changes in GitHub Desktop:
     -   Next, open up the Atom text editor, by going to the **Repository** menu, then **Open in External Editor** -or- **Open in Atom**.  **Note:** _You can use any text editor you’d like, but in this tutorial, we will be using the Atom editor._
     -   Your Atom text editor should open and have two files that were automatically generated when you created your test repository: **.gitattributes** & **README.md**
     <img src="images/act-1/5-2.png" alt="new file" style="float:right;width:240px;margin-left:10px;">
