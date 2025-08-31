@@ -12,7 +12,7 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 
 **Contexte: Jonah à vécu en Colombie-Britannique pour l'entièreté de 2024 et paye un loyer de 900$/mois à son propriétaire, John Smith.**
 
-<img src="my_folder/T4.bakery.PNG" alt="T4 pour Jonah de Casey's Bakery" style=";width:420px;margin-left:10px;">
+<img src="my_folder/1.png" alt="T4 pour Jonah de Casey's Bakery" style=";width:420px;margin-left:10px;">
 
 1.  [Install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 2.  [Install the Atom text editor](https://atom.io/){:target="_blank"} on your laptop.
