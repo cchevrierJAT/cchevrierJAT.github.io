@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Exercice de groupe
+parent: Exercices
 nav_order: 3
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Getting Started
