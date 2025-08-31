@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6. Études post-secondaire à temps plein
+title: 5. Études post-secondaire à temps plein
 nav_order: 9
 parent: Exercices
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
