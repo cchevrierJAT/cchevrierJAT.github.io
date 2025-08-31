@@ -8,11 +8,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Exercice de groupe : Jonah travaille et paye un loyer
 
-<img src="my_folder/T4.bakery.PNG" alt="T4 pour Jonah de Casey's Bakery" style="float:right;width:360px;margin-left:10px;">
-
 Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
 
-    <img src="images/act-1/3.png" alt="create repository" style="float:right;width:360px;margin-left:10px;">
+<img src="my_folder/T4.bakery.PNG" alt="T4 pour Jonah de Casey's Bakery" style="float:right;width:360px;margin-left:10px;">
+Jonah à vécu en Colombie-Britannique pour l'entièreté de 2024 et paye un loyer de 900$/mois à son propriétaire, John Smith. 
 
 1.  [Install GitHub Desktop](https://desktop.github.com){:target="_blank"} on your laptop.
 2.  [Install the Atom text editor](https://atom.io/){:target="_blank"} on your laptop.
