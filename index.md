@@ -1,6 +1,6 @@
 ---
 title: Impots JAT
-layout: home
+layout: default
 has_children: true
 has_toc: true
 ---
