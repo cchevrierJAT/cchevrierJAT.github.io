@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise de groupe
+title: Exercice de groupe
 nav_order: 3
 ---
 
