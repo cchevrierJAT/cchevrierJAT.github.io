@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6. Reçus liés aux enfants
+title: 3. Reçus liés aux enfants
 nav_order: 6
 parent: Exercices
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
