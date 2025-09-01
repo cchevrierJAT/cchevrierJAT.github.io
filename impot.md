@@ -11,7 +11,8 @@ Afin de faire les exercices, il est essentiel de te [créer un compte sur Wealth
 
 Tous les exercices:
 - Utilisent la version 2024 de Wealthsimple
-Assument que les personnes inclues dans la déclaration d'impôt:
+
+Et assument que les personnes inclues dans la déclaration d'impôt:
 - Habitent en Colombie-Britannique;
 - N'ont pas de vendu de résidence principale, ouvert un Compte d'épargne libre d'impôt pour l'achat d'une première propriété, ou flipper une résidence;
 - Sont célibataires et le status marital n'a pas changé au cours de l'année d'impôt;
