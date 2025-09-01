@@ -14,13 +14,8 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 
 <img src="my_folder/1.png" alt="T4 pour Jonah de Casey's Bakery" style=";width:420px;margin-left:10px;">
 
-<br><br>
 
-<div class="task-box" markdown="1">
-
-⭐ <u>Task 3.3-1</u>
-
-**Remplir **
+**Remplir la déclaration de Jonah**
 
 1.  Remplir les informations requises dans la section "About you" basé sur les informations de Jonah disponible sur son T4. Dans le contexte de cet exercice, Jonah est célibataire et est citoyen canadien et n'a pas investi dans des propriétés dans les dernières années. 
 
@@ -37,10 +32,8 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
   
 6. Pour une vrai déclaration, on clique ensuite sur "Submit" afin de soummettre la déclaration d'impôt complèter. Un numéro de confirmation serait alors généré et sert de preuve que la déclaration est bien soumise. 
 
-<br>
-
   
-Félicitation, tu peux maintenant choisir quel activité supplémentaire tu veux pratiquer! Rappel toi que tu peux faire plusieurs simulations et que choisir toutes les options qui s'appliquent à ta situation va mieux te préparer. 
+**Félicitation, tu peux maintenant choisir quel activité supplémentaire tu veux pratiquer!** Rappel toi que tu peux faire plusieurs simulations et que choisir toutes les options qui s'appliquent à ta situation va mieux te préparer. 
 
 **N'oubli pas de prendre une capture d'écrant de ton travail après avoir complèter l'exercice afin de validé ton devoir pour l'atelier d'aujourd'hui!**
 
