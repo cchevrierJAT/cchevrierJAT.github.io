@@ -27,7 +27,7 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 4. Vérifie que le document n'a pas d'erreurs (pour cet exercice, puisque les données personelles sont fictives il y aura des erreurs (indiqué en rouge), cela est correcte pour l'exercice mais ne devrait pas être le cas lorsque tu fait ta propore déclaration d'impôt.)
    
 5. Regarde le résumé, les détails de la déclaration sont ici.
-   - **"Balance Owing" signifie que Jonah doit payé de l'argent à l'ARC.** Ceci peut être fait à partir de ton compte de l'ARC
+   - **"Balance Owing" signifie que Jonah doit payé de l'argent à l'ARC.** Ceci peut être fait à partir de ton compte de l'ARC.
    - **"Refund" signifie que Jonah va recevoir un remboursement de l'ARC.** Wealthsimple ne permet pas d'ajouter les informations de dépot direct dans la déclaration (certains programmes permettent d'ajouter cet information directement dans la déclaration), l'information doit doc être ajouter ou mise à jour à partir de ton compte de l'ARC. Si aucune information de dépot direct n'est soumise, le remboursement sera envoyé par chèque. 
   
 6. Pour une vrai déclaration, on clique ensuite sur "Submit" afin de soummettre la déclaration d'impôt complèter. Un numéro de confirmation serait alors généré et sert de preuve que la déclaration est bien soumise. 
