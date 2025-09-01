@@ -22,7 +22,7 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 2.  Rechercher les formulaires nécessaires pour la déclaration dans la section "Manage tax forms".
    - Ceci inclu le T4 ainsi que le crédit de la C.-B. pour les locataires (British Columbia Renter's Tax Credit).
 
-3. Remplir les lignes nécessaire pour les formulaires que tu viens d'ajouter. Seuls les informations se trouvant sur le document officiel doivent être remplis. **Il *ne faut pas* ajouter de "0" dans les cases vide**
+3. Remplir les lignes nécessaire pour les formulaires que tu viens d'ajouter. Seuls les informations se trouvant sur le document officiel doivent être remplis. **Il *ne faut pas* ajouter de "0" dans les cases vide.**
    
 4. Vérifie que le document n'a pas d'erreurs (pour cet exercice, puisque les données personelles sont fictives il y aura des erreurs (indiqué en rouge), cela est correcte pour l'exercice mais ne devrait pas être le cas lorsque tu fait ta propore déclaration d'impôt.)
    
