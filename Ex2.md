@@ -6,7 +6,7 @@ parent: Exercices
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Exercice 1 : Jonah travaille et paye un loyer
+# Exercice 1 : Terry est un nouvel arrivant au Canada
 
 Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
 
@@ -21,6 +21,8 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 2.  Puisque Terry est un nouvel arrivant au Canada, il faut répondre "non" à la question "Were you a Canadian resident for all of 2024?" dans la section "About your Residency". Cela ferra apparaitrent les questions de suivi suivantes.
 
 <img src="my_folder/Terry.3.PNG" alt="About your Residency Section pour Terry" style=";width:520px;margin-left:10px;">
+
+NB: Puisque Terry n'as pas été un résident de la C.-B. pour la totalité de 2024, il n'est pas admissible au crédit provincial pour les locataires (même si il est un locataire) que nous avons vue dans l'exercice de groupe. 
 
 3.  Rechercher les formulaires nécessaires pour la déclaration dans la section "Manage tax forms".
    - Pour cet exercice cela est uniquement le T4.
