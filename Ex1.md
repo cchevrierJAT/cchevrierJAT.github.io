@@ -17,11 +17,11 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 
 **Remplir la déclaration de Jonah**
 
-1.  Remplir les informations requises dans la section "About you" basé sur les informations de Jonah disponible sur son T4. Dans le contexte de cet exercice, Jonah est célibataire et est citoyen canadien et n'a pas investi dans des propriétés dans les dernières années.
+1. Remplir les informations requises dans la section "About you" basé sur les informations de Jonah disponible sur son T4. Dans le contexte de cet exercice, Jonah est célibataire et est citoyen canadien et n'a pas investi dans des propriétés dans les dernières années.
 
 <img src="my_folder/jonah.1.PNG" alt="About you, Jonah" style=";width:420px;margin-left:10px;">
 
-2.  Rechercher les formulaires nécessaires pour la déclaration dans la section "Manage tax forms".
+2. Rechercher les formulaires nécessaires pour la déclaration dans la section "Manage tax forms".
    - Ceci inclu le T4 ainsi que le crédit de la C.-B. pour les locataires (British Columbia Renter's Tax Credit).
 
 <img src="my_folder/jonah.8.PNG" alt="Manage Tax Form" style=";width:420px;margin-left:10px;">
