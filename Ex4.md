@@ -41,6 +41,6 @@ Par contre, chaque personne peux uniquement déclarer un dépendant comme "dépe
 7. Regarde le résumé, les détails de la déclaration sont ici.
 “Balance Owing” signifie que Corinne doit payé de l’argent à l’ARC.
 “Refund” signifie que Corinne va recevoir un remboursement de l’ARC.
-Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Marc devrait être un remboursement de 1854$. 
+Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Corinne devrait être un remboursement de 1854$. 
 
 <img src="images/act-4/0.png" alt="logo" style="float:right;width:180px;margin-left:10px;">
