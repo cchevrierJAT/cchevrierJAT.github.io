@@ -42,3 +42,5 @@ Les dépenses d'entreprises sont une déduction d'impôt pour Marc (cela réduit
 “Balance Owing” signifie que Marc doit payé de l’argent à l’ARC.
 “Refund” signifie que Marc va recevoir un remboursement de l’ARC.
 Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Marc devrait être un remboursement de 924$. 
+
+Notez bien: Lorsque l'on inclu des dépenses dans sa déclaration d'impôt, comme les dépenses médicales ou les dépenses d'entreprise, il est important de garder les reçus associés à ces dépenses pour une période de 7 ans, en cas d'audit. 
