@@ -44,3 +44,5 @@ Par contre, chaque personne peux uniquement déclarer un dépendant comme "dépe
 Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Corinne devrait être un remboursement de 1854$. 
 
 <img src="images/act-4/0.png" alt="logo" style="float:right;width:180px;margin-left:10px;">
+
+Notez bien: Lorsque l'on inclu des dépenses dans sa déclaration d'impôt, comme les dépenses médicales ou dépenses liés aux enfants, il est important de garder les reçus associés à ces dépenses pour une période de 7 ans, en 
