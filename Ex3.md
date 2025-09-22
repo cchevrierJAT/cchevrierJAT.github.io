@@ -39,6 +39,6 @@ Les dépenses d'entreprises sont une déduction d'impôt pour Marc (cela réduit
 6. Vérifie que le document n’a pas d’erreurs (pour cet exercice, puisque les données personelles sont fictives il y aura des erreurs (indiqué en rouge), cela est correcte pour l’exercice mais ne devrait pas être le cas lorsque tu fait ta propore déclaration d’impôt.)
 
 7. Regarde le résumé, les détails de la déclaration sont ici.
-“Balance Owing” signifie que Terry doit payé de l’argent à l’ARC.
-“Refund” signifie que Terry va recevoir un remboursement de l’ARC.
+“Balance Owing” signifie que Marc doit payé de l’argent à l’ARC.
+“Refund” signifie que Marc va recevoir un remboursement de l’ARC.
 Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Marc devrait être un remboursement de 924$. 
