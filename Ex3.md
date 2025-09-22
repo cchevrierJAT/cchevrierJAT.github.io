@@ -14,7 +14,7 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 Voici les informations que tu dois connaitre sur le travail autonome de Marc: 
 - L'industrie dans laquelle Marc fait sont travail de freelance est un rôle de Classification nationale des professions (CNP ou NOC en anglais) 51110.
 - La période fiscale pour l'entreprise personelle de Marc est du 1er janvier au 31 décembre annuellement.
-- Marc veut déclarer une dépense de travail de 550$ pour l'achat de programme technologique (software) lié à son entreprise. Il a un reçu pour cette dépense.
+- Marc veut déclarer une dépense de travail de 500$ pour son abonnement à un programme technologique (software) lié à son entreprise. Il a un reçu pour cette dépense.
 
 <img src="my_folder/T4.pizza.PNG" alt="T4 pour Terry de Plaza Di Pizza" style=";width:520px;margin-left:10px;">
 
@@ -41,4 +41,4 @@ Les dépenses d'entreprises sont une déduction d'impôt pour Marc (cela réduit
 7. Regarde le résumé, les détails de la déclaration sont ici.
 “Balance Owing” signifie que Terry doit payé de l’argent à l’ARC.
 “Refund” signifie que Terry va recevoir un remboursement de l’ARC.
-Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Marc devrait être **un remboursement de 124$**
+Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. Le résultat finale pour Marc devrait être un remboursement de 924$. 
