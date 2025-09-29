@@ -19,11 +19,13 @@ Voici les informations que tu dois connaitre sur les enfants de Corrine:
 
 <img src="my_folder/4.png" alt="T4 pour Corinne" style=";width:520px;margin-left:10px;">
 
+<img src="my_folder/Daycare receipt.PNG" alt="Reçu de garde des enfants" style=";width:520px;margin-left:10px;">
+
 **Remplir la déclaration de Corinne**
 
 1.  Remplir les informations requises dans la section "About you" basé sur les informations de Corinne disponible sur son T4 et dans le contexte. Attention à la section "Votre famille et vous", cela devrait être remplis comme ceci:
 
-<img src="my_folder/4.1.png" alt="Votre famille et vous pour Corinne" style=";width:520px;margin-left:10px;">
+<img src="my_folder/4.1.png" alt="Votre famille et vous pour Corinne" style=";width:140px;margin-left:10px;">
    
 3.  Rechercher les formulaires nécessaires pour la déclaration dans la section “Manage tax forms”.
 Pour cet exercice cela inclu:
@@ -34,11 +36,11 @@ Pour cet exercice cela inclu:
    
 5. Voyons comment remplir les informations sur les dépendants.
 
-<img src="my_folder/4.2.png" alt="Informations pour Rose" style=";width:520px;margin-left:10px;">
+<img src="my_folder/4.2.png" alt="Informations pour Rose" style=";width:420px;margin-left:10px;">
 
 Il faut faire deux foix le formulaire des dépendants dans ce cas-ci, puisque Corinne à deux enfants à sa charge. 
 
-<img src="my_folder/4.3.png" alt="Informations pour Rémi" style=";width:520px;margin-left:10px;">
+<img src="my_folder/4.3.png" alt="Informations pour Rémi" style=";width:400px;margin-left:10px;">
 
 Par contre, chaque personne peux uniquement déclarer un dépendant comme "dépendant admissible". Dans le cas de l'exercise, disons qu'il s'agit de Rose. Pour le dépendant admissible, il est obligatoire d'inclure le revenu net (Net income), puisque Rose est une jeune enfant, cela est ce 0.00$ et doit être inclu dans la déclaration. 
 
