@@ -35,15 +35,15 @@ Pour cet exercice cela inclu:
    
 5. Voyons comment remplir le T2125 de Marc.
 
-<img src="my_folder/3.3.PNG" alt="Formulaire T2125 pour Marc" style=";width:520px;margin-left:10px;">
+<img src="my_folder/3.3.png" alt="Formulaire T2125 pour Marc" style=";width:520px;margin-left:10px;">
 
 Puisque Marc fait du freelance mais n'a pas de compagnie enregistré, le nom de son entreprise est le même que son nom légal complet (cela est standard).
 
-<img src="my_folder/3.4.2.PNG" alt="Formulaire T2125 pour Marc" style=";width:520px;margin-left:10px;">
+<img src="my_folder/3.4.2.png" alt="Formulaire T2125 pour Marc" style=";width:520px;margin-left:10px;">
 
 Les dépenses d'entreprises sont une déduction d'impôt pour Marc (cela réduit le montant d'argent dû au gouvernement). 
 
-<img src="my_folder/3.5.PNG" alt="Dépenses d'entreprises" style=";width:520px;margin-left:10px;">
+<img src="my_folder/3.5.png" alt="Dépenses d'entreprises" style=";width:520px;margin-left:10px;">
 
 6. Vérifie que le document n’a pas d’erreurs (pour cet exercice, puisque les données personelles sont fictives il y aura des erreurs (indiqué en rouge), cela est correcte pour l’exercice mais ne devrait pas être le cas lorsque tu fait ta propore déclaration d’impôt.)
 
