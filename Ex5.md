@@ -5,6 +5,7 @@ nav_order: 8
 parent: Exercices_
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+****NOTER BIEN, POUR QUE L'EXERCISE N'APARRAISE PAS UN _ EST AJOUTER À COTER DU PARENT, POUR FAIRE APPARAITRE, RETIRER LE _*****
 
 # Exercice 4 : Elizabeth à des dépenses médicales
 
