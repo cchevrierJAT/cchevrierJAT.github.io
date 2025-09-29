@@ -43,6 +43,6 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
 6. Pour une vrai déclaration, on clique ensuite sur "Review and optimize" et ensuite "Submit" afin de soummettre la déclaration d'impôt complèter. Un numéro de confirmation serait alors généré et sert de preuve que la déclaration est bien soumise. 
 
   
-**Félicitation, tu peux maintenant choisir quel activité supplémentaire tu veux pratiquer!** Rappel toi que tu peux faire plusieurs simulations et que choisir toutes les options qui s'appliquent à ta situation va mieux te préparer. 
+**Félicitation, tu peux maintenant choisir quelles activités supplémentaires tu veux pratiquer!** Rappel toi que tu peux faire plusieurs simulations et que choisir toutes les options qui s'appliquent à ta situation va mieux te préparer. 
 
 **N'oubli pas de prendre une capture d'écrant de ton travail après avoir complèter l'exercice afin de validé ton devoir pour l'atelier d'aujourd'hui!**
