@@ -26,10 +26,9 @@ Voici les informations que tu dois connaitre sur le travail autonome de Marc:
 Pour cet exercice cela inclu:
 -  Le T4;
 -  Le T4A et;
-  
-<img src="my_folder/3.2.png" alt="T4A pour Marc" style=";width:520px;margin-left:10px;">
+-  Le T2125 (pas nécessaire de rechercher le formulaire, celui-ci s'ajoutera automatiquement après avoir rempli le T4A).
 
--  Le T2125 (pas nécessaire de rechercher le formulaire, celui-ci s'ajoutera automatiquement).
+<img src="my_folder/3.2.png" alt="T4A pour Marc" style=";width:520px;margin-left:10px;">
 
 4. Remplir les lignes nécessaire pour les formulaires que tu viens d’ajouter. Seuls les informations se trouvant sur le document officiel doivent être remplis. Il ne faut pas ajouter de “0” dans les cases vide.
    
