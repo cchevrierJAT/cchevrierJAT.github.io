@@ -20,4 +20,8 @@ Et assument que les personnes inclues dans la déclaration d'impôt:
 - Ne possèdent pas des biens étrangés ayant une valeur de plus de 100 000$ CAD.
 _- La date de naissance peut être inventé pour chaque déclarant, choisi une date avant 2000._
 
+Pour te faciliter la tâche, il est recommender de redimentionner les fenêtre d'exercises, pour voir des instructions, [consulté ce tutoriel](https://www.youtube.com/watch?v=eVej-2NuY5o){:target="_blank"}.
+
+POur complèter le devoir, il faut faire des captures d'écrant, si tu ne sais pas comment faire, regarde le tutoriel [pour Windows](https://www.youtube.com/watch?v=eVej-2NuY5o){:target="_blank"} et [pour Mac](https://www.youtube.com/watch?v=dnmQ9EbC99Q){:target="_blank"}
+
 **Tu es maintenant prêt à faire les simulations de déclaration d'impôts.**
