@@ -2,7 +2,7 @@
 layout: default
 title: 4. Reçus médicaux
 nav_order: 8
-parent: Exercices
+parent: Exercices_
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
