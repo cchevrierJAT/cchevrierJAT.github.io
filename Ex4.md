@@ -19,7 +19,7 @@ Voici les informations que tu dois connaitre sur les enfants de Corrine:
 
 <img src="my_folder/4.png" alt="T4 pour Corinne" style=";width:520px;margin-left:10px;">
 
-<img src="my_folder/Daycare receipt.PNG" alt="Reçu de garde des enfants" style=";width:520px;margin-left:10px;">
+<img src="my_folder/Daycare receipt.PNG" alt="Reçu de garde des enfants" style=";width:350px;margin-left:10px;">
 
 **Remplir la déclaration de Corinne**
 
