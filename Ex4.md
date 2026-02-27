@@ -53,6 +53,6 @@ Finalement, il faut remplir la section "Déduction pour garde d'enfants" qui app
 7. Regarde le résumé, les détails de la déclaration sont ici.
 “Balance Owing” signifie que Corinne doit payé de l’argent à l’ARC.
 “Refund” signifie que Corinne va recevoir un remboursement de l’ARC.
-Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. **Le résultat finale pour Corinne devrait être un remboursement de 1854$.**
+Fait une capture d’écran pour démontré que tu as bien terminer l’exercice. **Le résultat finale pour Corinne devrait être un remboursement d'environ 1854$.**
 
 Notez bien: Lorsque l'on inclu des dépenses dans sa déclaration d'impôt, comme les dépenses médicales ou dépenses liés aux enfants, il est important de garder les reçus associés à ces dépenses pour une période de 7 ans, en cas d'audit.
