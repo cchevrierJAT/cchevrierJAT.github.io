@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https://my.wealthsimple.com/app/public/signup/){:target="_blank"}.
 
-**Contexte: Jonah à vécu en Colombie-Britannique pour l'entièreté de 2024 et paye un loyer de 900$/mois à son propriétaire, John Matthews.**
+**Contexte: Jonah à vécu en Colombie-Britannique pour l'entièreté de 2025 et paye un loyer de 900$/mois à son propriétaire, John Matthews.**
 
 <img src="my_folder/1.png" alt="T4 pour Jonah de Casey's Bakery" style=";width:420px;margin-left:10px;">
 
@@ -45,4 +45,4 @@ Si ce n'est pas déjà fait, merci de [créer un compte sur Wealthsimple](https:
   
 **Félicitations, tu peux maintenant choisir quelles activités supplémentaires tu veux pratiquer!** Rappel toi que tu peux faire plusieurs simulations et que choisir toutes les options qui s'appliquent à ta situation va mieux te préparer. 
 
-**N'oubli pas de prendre une capture d'écrant de ton travail après avoir complèter l'exercice afin de validé ton devoir pour l'atelier d'aujourd'hui!**
+**N'oubli pas de prendre une capture d'écrant de ton travail après avoir complèter l'exercice afin de validé ton devoir pour l'atelier d'aujourd'hui! Si tu n'as pas exactement le même montant qu'indiqué dans l'excercice, pas de panique, il peut y avoir des petites différences.**
